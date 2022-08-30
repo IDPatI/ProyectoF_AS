@@ -17,7 +17,7 @@ Repositorio en el cual se van a ir subiendo los avances del proyecto final de Ar
      alt="Oscar Moreno"
      style="width:20%" align="rigth"/>
 
-<h3>∴ Isaac Mauricio Ehuan Avila <a href="https://github.com/2DMore" target="_blank">
+<h3>∴ Isaac Mauricio Ehuan Avila <a href="https://github.com/IsaacEhuan" target="_blank">
     🐱‍🐉
 </a></h3>
 
