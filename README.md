@@ -1,7 +1,7 @@
 # Proyecto Arquitectura de Software
 Repositorio en el cual se van a ir subiendo los avances del proyecto final de Arquitectura de Software
 
-<h3 >⁂ David Alberto Pat Cituk <a href="https://github.com/IDPatI" target="_parent">
+<h3 >⁂ David Alberto Pat Cituk <a href="https://github.com/IDPatI" target="_blank">
      github
 </a></h3>
 
