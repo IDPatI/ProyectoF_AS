@@ -14,7 +14,7 @@ Repositorio en el cual se van a ir subiendo los avances del proyecto final de Ar
 </a></h3>
 
 <img src="https://user-images.githubusercontent.com/95386020/187351162-58f2de8f-3efb-40f2-b376-e9364957b6fc.jpeg"
-     alt="Oscar Moreno"
+     alt="Daniel Flores"
      style="width:20%" align="rigth"/>
 
 <h3>∴ Isaac Mauricio Ehuan Avila <a href="https://github.com/IsaacEhuan" target="_blank">
@@ -22,5 +22,5 @@ Repositorio en el cual se van a ir subiendo los avances del proyecto final de Ar
 </a></h3>
 
 <img src="https://user-images.githubusercontent.com/95386020/187352882-bcda7e5b-ac5a-4189-afa2-18b4530380a4.jpeg"
-     alt="Oscar Moreno"
+     alt="Isacc Ehuan"
      style="width:20%" align="rigth"/>
